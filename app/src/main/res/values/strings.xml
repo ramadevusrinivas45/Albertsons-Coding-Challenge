@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Find Acronyms</string>
+    <string name="title_list_empty">No data found</string>
+    <string name="message_list_empty">Please try again</string>
+    <string name="hint_search">Enter abbreviation</string>
+    <string name="empty_search_text">Abbreviation text should not be empty</string>
+</resources>
